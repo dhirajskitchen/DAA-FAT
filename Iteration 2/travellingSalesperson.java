@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class travellingSalesPerson {
+public class travellingSalesperson {
     static int ans = Integer.MAX_VALUE;
     static int[][] graph;
     static boolean visited[];
